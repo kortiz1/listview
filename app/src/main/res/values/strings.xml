@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">LISTVIEW_KEVIN_ORTIZ</string>
+        <string name="numero">NO.</string>
+        <string name="operacion">OPERACIÓN</string>
+        <string name="datos">DATO</string>
+        <string name="resultado">RESULTADO</string>
+        <string name="ar">ÁREAS</string>
+        <string name="vol">VOLÚMENES</string>
+        <string name="cuadrado">CUADRADO</string>
+        <string name="rectangulo">RECTÁNGULO</string>
+        <string name="triangulo">TRIÁNGULO</string>
+        <string name="circulo">CÍRCULO</string>
+        <string name="esf">ESFERA</string>
+        <string name="cil">CILINDRO</string>
+        <string name="con">CONO</string>
+        <string name="cub">CUBO</string>
+        <string name="acuadrado">CUADRADO</string>
+        <string name="calcular">CALCULAR</string>
+        <string name="borrar">LIMPIAR</string>
+        <string name="text_ingr_val_rect">VALOR DE LA BASE:</string>
+        <string name="text_ingr_val_rect2">VALOR DE LA ALTURA:</string>
+        <string name="text_ingr_val_cua">INGRESÉ EL VALOR DEL LADO:</string>
+        <string name="arista">INGRESÉ EL VALOR DE LA ARISTA:</string>
+        <string name="text_ingr_val_cir">INGRESÉ EL VALOR DEL RADIO:</string>
+        <string name="area">ÁREA:</string>
+        <string name="arista2">ARISTA:</string>
+        <string name="cerrar">OK</string>
+    <string name="historial">HISTORIAL</string>
+    <string name="msn_err">DIGITE UN VALOR</string>
+    <string name="vol2">VOLUMEN:</string>
+
+
+        <array name="Menu">
+            <item>@string/ar</item>
+            <item>@string/vol</item>
+            <item>@string/resultado</item>
+        </array>
+
+
+        <array name="Menu_Areas">
+            <item>@string/cuadrado</item>
+            <item>@string/rectangulo</item>
+            <item>@string/triangulo</item>
+            <item>@string/circulo</item>
+        </array>
+
+
+        <array name="Menu_Volumenes">
+            <item>@string/esf</item>
+            <item>@string/cil</item>
+            <item>@string/con</item>
+            <item>@string/cub</item>
+        </array>
+    </resources>

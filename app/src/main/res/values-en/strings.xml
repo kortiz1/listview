@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LISTVIEW_KEVIN_ORTIZ</string>
+    <string name="acuadrado">SQUARE</string>
+    <string name="ar">AREAS</string>
+    <string name="area">AREA:</string>
+    <string name="arista">INCOME THE VALUE OF THE ARIST:</string>
+    <string name="arista2">ARIST:</string>
+    <string name="borrar">CLEAN</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="cerrar">OKAY</string>
+    <string name="cil">CYLINDER</string>
+    <string name="circulo">CIRCLE</string>
+    <string name="con">CONE</string>
+    <string name="cuadrado">SQUARE</string>
+    <string name="cub">CUBE</string>
+    <string name="datos">DATA</string>
+    <string name="esf">SPHERE</string>
+    <string name="historial">HISTORY</string>
+    <string name="msn_err">TYPE A VALUE</string>
+    <string name="numero">NO.</string>
+    <string name="operacion">OPERATION</string>
+    <string name="rectangulo">RECTANGLE</string>
+    <string name="resultado">RESULT</string>
+    <string name="text_ingr_val_cir">ENTERED THE VALUE OF RADIO:</string>
+    <string name="text_ingr_val_cua">ENTERED THE VALUE OF THE SIDE:</string>
+    <string name="text_ingr_val_rect">VALUE OF THE BASE:</string>
+    <string name="text_ingr_val_rect2">VALUE OF HEIGHT:</string>
+    <string name="triangulo">TRIANGLE</string>
+    <string name="vol">VOLUMES</string>
+    <string name="vol2">VOLUME:</string>
+</resources>
